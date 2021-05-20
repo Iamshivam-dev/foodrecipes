@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/foodrecipes/static/css/main.5cbfd78f.chunk.css",
+    "main.js": "/foodrecipes/static/js/main.52a44657.chunk.js",
+    "main.js.map": "/foodrecipes/static/js/main.52a44657.chunk.js.map",
+    "runtime-main.js": "/foodrecipes/static/js/runtime-main.75205dda.js",
+    "runtime-main.js.map": "/foodrecipes/static/js/runtime-main.75205dda.js.map",
+    "static/js/2.3b347fe0.chunk.js": "/foodrecipes/static/js/2.3b347fe0.chunk.js",
+    "static/js/2.3b347fe0.chunk.js.map": "/foodrecipes/static/js/2.3b347fe0.chunk.js.map",
+    "static/js/3.24788022.chunk.js": "/foodrecipes/static/js/3.24788022.chunk.js",
+    "static/js/3.24788022.chunk.js.map": "/foodrecipes/static/js/3.24788022.chunk.js.map",
+    "index.html": "/foodrecipes/index.html",
+    "static/css/main.5cbfd78f.chunk.css.map": "/foodrecipes/static/css/main.5cbfd78f.chunk.css.map",
+    "static/js/2.3b347fe0.chunk.js.LICENSE.txt": "/foodrecipes/static/js/2.3b347fe0.chunk.js.LICENSE.txt",
+    "static/media/headImg.681a3f03.jpg": "/foodrecipes/static/media/headImg.681a3f03.jpg",
+    "static/media/App.css": "/foodrecipes/static/media/michael-browning-MtqG1lWcUw0-unsplash(1).5b084b1f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75205dda.js",
+    "static/js/2.3b347fe0.chunk.js",
+    "static/css/main.5cbfd78f.chunk.css",
+    "static/js/main.52a44657.chunk.js"
+  ]
+}
