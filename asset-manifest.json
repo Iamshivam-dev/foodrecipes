@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/foodrecipes/static/css/main.5cbfd78f.chunk.css",
-    "main.js": "/foodrecipes/static/js/main.52a44657.chunk.js",
-    "main.js.map": "/foodrecipes/static/js/main.52a44657.chunk.js.map",
+    "main.js": "/foodrecipes/static/js/main.67818414.chunk.js",
+    "main.js.map": "/foodrecipes/static/js/main.67818414.chunk.js.map",
     "runtime-main.js": "/foodrecipes/static/js/runtime-main.75205dda.js",
     "runtime-main.js.map": "/foodrecipes/static/js/runtime-main.75205dda.js.map",
     "static/js/2.3b347fe0.chunk.js": "/foodrecipes/static/js/2.3b347fe0.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.75205dda.js",
     "static/js/2.3b347fe0.chunk.js",
     "static/css/main.5cbfd78f.chunk.css",
-    "static/js/main.52a44657.chunk.js"
+    "static/js/main.67818414.chunk.js"
   ]
 }
